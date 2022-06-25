@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\bin\Debug\net6.0\Observer.exe
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\bin\Debug\net6.0\Observer.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\bin\Debug\net6.0\Observer.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\bin\Debug\net6.0\Observer.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\bin\Debug\net6.0\ref\Observer.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\bin\Debug\net6.0\Observer.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\ref\Observer.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Observer\obj\Debug\net6.0\Observer.genruntimeconfig.cache

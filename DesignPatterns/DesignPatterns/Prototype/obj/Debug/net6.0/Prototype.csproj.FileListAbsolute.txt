@@ -1,0 +1,17 @@
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net6.0\ref\Prototype.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net6.0\ref\Prototype.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\net6.0\Flyweight.exe
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\net6.0\Flyweight.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\net6.0\Flyweight.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\net6.0\Flyweight.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\net6.0\ref\Flyweight.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\net6.0\Flyweight.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\net6.0\ref\Flyweight.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.genruntimeconfig.cache

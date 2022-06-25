@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\bin\Debug\net6.0\Interpreter.exe
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\bin\Debug\net6.0\Interpreter.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\bin\Debug\net6.0\Interpreter.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\bin\Debug\net6.0\Interpreter.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\bin\Debug\net6.0\ref\Interpreter.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\bin\Debug\net6.0\Interpreter.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\net6.0\Interpreter.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\net6.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\net6.0\Interpreter.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\net6.0\Interpreter.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\net6.0\Interpreter.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\net6.0\Interpreter.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\net6.0\ref\Interpreter.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\net6.0\Interpreter.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\net6.0\Interpreter.genruntimeconfig.cache

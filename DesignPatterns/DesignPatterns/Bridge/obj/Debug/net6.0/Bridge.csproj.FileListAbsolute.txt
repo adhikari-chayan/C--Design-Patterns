@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\bin\Debug\net6.0\Bridge.exe
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\bin\Debug\net6.0\Bridge.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\bin\Debug\net6.0\Bridge.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\bin\Debug\net6.0\Bridge.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\bin\Debug\net6.0\ref\Bridge.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\bin\Debug\net6.0\Bridge.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\ref\Bridge.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.exe
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net6.0\ref\FactoryMethod.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache

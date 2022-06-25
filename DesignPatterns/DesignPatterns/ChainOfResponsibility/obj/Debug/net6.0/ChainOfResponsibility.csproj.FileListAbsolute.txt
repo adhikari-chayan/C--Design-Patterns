@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.exe
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.deps.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ref\ChainOfResponsibility.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.csproj.AssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ref\ChainOfResponsibility.dll
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.pdb
+C:\MyStuff\Practice Projects\dotnetcore\DesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.genruntimeconfig.cache
